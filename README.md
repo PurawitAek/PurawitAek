@@ -1,27 +1,27 @@
-# Hi, I'm Purawit! 👋  
+# Hi, I'm Purawit!  
 
 🎓 **About Me**
 I'm a **sophomore at Chulalongkorn Business School**, majoring in **Business Information Technology**. 
 Passionate about **programming, data analysis, and problem-solving**, 
 I enjoy exploring how technology can drive business innovation.  
 
-💡 **Interests & Skills**  
+**Interests & Skills**  
 - 🖥️ Programming: Python, C#, R, SQL, JavaScript, Swift  
 - 📊 Data Analysis: Pandas, NumPy, Excel 
 - 📈 Business Analytics: Data Visualization & Statistical Modeling  
 - 🌐 Web Development: HTML, CSS, Django
 
-🌱 **Currently Learning**  
+**Currently Learning**  
 - Advanced Data Analytics
 - Sample Survey Design  
 - Web Programming 
 - Mobile Application  
 
-🚀 **Projects**  
+**Projects**  
 - 
 
-💼 **Looking for an Internship**  
-I'm actively seeking opportunities in **Data Science, Software Development, or Business Analytics**. 
+**Looking for an Internship**  
+I'm actively seeking opportunities in **Data Analyst, Software Development, or Business Analytics**. 
 If you're hiring or looking for a collaborator, let's connect!  
 
 📫 **Get in Touch**  
