@@ -18,11 +18,15 @@ Check out my work here: [GitHub Portfolio](https://github.com/PurawitAek)
 ---
 
 ### 🧠 Currently Learning
-- Advanced Data Analytics  
+- Data Analytics  
 - Sample Survey Design  
 - Web Programming  
 - Mobile Application Development  
 
+---
+### Project
+- Swift Student Challenge -> https://github.com/PurawitAek/Swift-Challenge-2025
+- OOP study project -> https://github.com/PurawitAek/OOP-study-project-food-delivery-c-
 ---
 
 ### 🎯 Looking for an Internship  
