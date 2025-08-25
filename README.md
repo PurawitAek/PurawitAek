@@ -1,42 +1,15 @@
 # Hi 👋 I'm Purawit
 
-🎓 Sophomore at Chulalongkorn Business School, majoring in **Business Information Technology**  
-💡 Passionate about programming, data analysis, and problem-solving  
-🚀 Exploring how technology can drive business innovation
-
----
-
-### 🌍 Location  
-Based in **Bangkok, Thailand**
-
-### 🖥️ Portfolio  
-Check out my work here: [GitHub Portfolio](https://github.com/PurawitAek)
+🎓 Junior at Chulalongkorn Business School, majoring in **Business Information Technology**  
 
 ### 📫 Contact Me  
 📧 [purawitaek1857@gmail.com](mailto:purawitaek1857@gmail.com)
 
 ---
 
-### 🧠 Currently Learning
-- Data Analytics  
-- Sample Survey Design  
-- Web Programming  
-- Mobile Application Development  
-
----
 ### Project
 - Swift Student Challenge -> https://github.com/PurawitAek/Swift-Challenge-2025
 - OOP study project -> https://github.com/PurawitAek/OOP-study-project-food-delivery-c-
----
-
-### 🎯 Looking for an Internship  
-I'm actively seeking opportunities in:
-- **Data Analysis**  
-- **Software Development**  
-- **Business Analytics**
-
-If you're hiring or open to collaboration, let’s connect!
-
 ---
 
 ### 🛠 Skills
